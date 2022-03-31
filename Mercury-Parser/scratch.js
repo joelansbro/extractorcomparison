@@ -1,6 +1,6 @@
 // ran from node
 const Mercury = require('@postlight/mercury-parser')
 
-let url = 'https://engineroom.teamwork.com/vue-js-advanced-reactivity-api-and-caching-method-style-getters-a80979b6660';
+let url = 'https://www.serverless.com/blog/making-a-discord-playlist-bot-with-serverless-cloud';
 
 Mercury.parse(url).then(result => console.log(result))
