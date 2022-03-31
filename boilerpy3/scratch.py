@@ -1,4 +1,3 @@
-from flask import request
 import requests
 from boilerpy3 import extractors
 
