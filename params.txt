@@ -1,1 +1,16 @@
-http://gregmankiw.blogspot.com/2022/01/needs.html
+https://hami.hashnode.dev/python-for-everyone
+https://sohoxic.hashnode.dev/getting-started-with-python-22-escape-sequence
+https://souravwd.hashnode.dev/how-to-start-your-programming-journey
+https://codewithisrael.hashnode.dev/writing-more-concise-code
+https://abdulsamodazeez.com/how-to-build-a-machine-learning-web-app-in-python-using-gradio
+https://boadzie.hashnode.dev/how-i-learned-to-code
+https://r4hu1s0n7.hashnode.dev/quick-guide-to-making-rest-api-using-django
+https://blog.octachart.com/asynchronous-web-scraping-with-python-aiohttp
+https://roundthetech.hashnode.dev/why-python-is-best-for-data-science-and-ml
+https://realpython.com/python-gui-tkinter/
+https://www.blog.pythonlibrary.org/2022/03/29/automating-excel-with-python-video-overview/
+https://blog.finxter.com/machine-learning-cheat-sheets/
+https://pyfound.blogspot.com/2022/03/meta-deepens-its-investment-in-python.html
+https://www.fullstackpython.com/blog/application-performance-monitoring-aws-lambda-functions-sentry.html
+https://www.fullstackpython.com/blog/monitor-python-functions-aws-lambda-sentry.html
+https://www.fullstackpython.com/blog/django-accurate-twilio-voice-transcriptions.html
